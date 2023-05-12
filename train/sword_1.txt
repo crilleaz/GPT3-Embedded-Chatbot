@@ -1,0 +1,10 @@
+Weapon name|Level|Attack|Defence|Defence modification|Hands|Resist|Imbuement slots|Class|Weight|Attribues|Dropped by|
+Assassin Dagger|40|40|12|-2|One||2|2|17.00||Amenef the Burning Brachiodemon Draken Elite Frazzlemaw Frost Flower Asura Fury Furyosa Guzzlemaw Katex Blood Tongue Liodile Madareth Mawhawk Midnight Asura Ripper Spectre The Flaming Orchid The Sandking True Frost Flower Asura True Midnight Asura Usurper Archer Yirkas Blue Scales
+Berserker|65|48|21|0|Two||3|2|130.00||Ferumbras Ferumbras Mortal Shell Massacre Rupture War Golem
+Blacksteel Sword|35|42|22|0|Two||3|2|59.00||[List]
+Blade of Corruption|82|48|29|2|One||2|2|64.00||Draken Elite Paiz the Pauperizer Essence of Malice
+Blade of Destruction|200|50|33|0|One||2|2|50.00||[List]
+Bloody Edge|55|43|21|-3|One||2|2|52.00||Arachir the Ancient One Betrayed Wraith Ferumbras Ferumbras Mortal Shell Madareth Mamma Longlegs The Old Widow The Pale Count
+Bone Sword|0|13|10|0|One||0|1|19.00||Braindeath Cobra Assassin Crypt Shambler
+Bright Sword|30|36|30|1|One||2|2|29.00||The Enraged Thorn Knight
+Broadsword|0|26|23|0|Two||3|1|52.50||Afflicted Strider Dragon Grand Mother Foulscale Orc Leader Renegade Orc
