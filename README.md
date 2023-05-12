@@ -33,3 +33,7 @@ python run.py
 ### How to add data to train
 
 Place your .txt-files into /train folder, i've seen better results with OpenAI API's by splitting the files into smaller chunks. Change and use split.py if you run into limits.
+
+
+### Discord
+Crille#6623
