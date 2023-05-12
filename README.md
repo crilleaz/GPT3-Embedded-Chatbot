@@ -7,7 +7,7 @@ Processing via gpt-3.5-turbo<br>
 
 1. Clone the repository
 ```
-git clone git@github.com:crilleaz/GPT3-Embedded-Chatbot.git
+git clone https://github.com/crilleaz/GPT3-Embedded-Chatbot
 ```
 
 2. Install the dependencies
