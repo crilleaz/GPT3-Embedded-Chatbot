@@ -1,6 +1,6 @@
-Train and use the embedded data combined with GPT3 to chat directly with said data.
-Embeddings via text-embedding-ada-002
-Processing via gpt-3.5-turbo
+Train and use the embedded data combined with GPT3 to chat directly with said data.<br>
+Embeddings via text-embedding-ada-002<br>
+Processing via gpt-3.5-turbo<br>
 
 
 ### Installation
