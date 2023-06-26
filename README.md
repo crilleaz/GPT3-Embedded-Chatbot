@@ -36,4 +36,4 @@ Place your .txt-files into /train folder, i've seen better results with OpenAI A
 
 
 ### Discord
-Crille#6623
+Crilleaz
